@@ -17,3 +17,12 @@ for name in fruitNames {
 print(fruitNames[1])
 
 print(fruitNames[0])
+
+
+//Part 8, Start of Assignment #4
+var myNumbers: [Int] = [2,9,7,4,10]
+print(myNumbers)
+print("My Favorite Number is\(myNumbers)")
+for number in myNumbers {
+    print("My Favorite Number is" , number)
+}
